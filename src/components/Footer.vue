@@ -62,7 +62,7 @@
               <i class="bi bi-geo-alt me-2"></i>P.O.Box 12345-00100, Nairobi,
               Kenya
             </li>
-            <li><i class="bi bi-telephone me-2"></i>+254-700-000-000</li>
+            <li><i class="bi bi-telephone me-2"></i>+254-114-290-760</li>
             <li>
               <i class="bi bi-envelope me-2"></i
               ><a
