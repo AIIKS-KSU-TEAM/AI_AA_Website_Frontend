@@ -68,7 +68,7 @@
               ><a
                 href="mailto:info@aiaango.org"
                 class="text-white text-decoration-none"
-                >info@aiaa-kenya.org</a
+                >aiallianceagriculture@gmail.com</a
               >
             </li>
           </ul>
