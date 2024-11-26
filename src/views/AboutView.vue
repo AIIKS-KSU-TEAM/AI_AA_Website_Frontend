@@ -48,7 +48,7 @@ const { teamMembers } = useMembers();
           <div class="col-md-4 col-sm-6 col-12 mb-1">
             <div class="card service-card">
               <img
-                src="@/assets/images/Directors/ronald2.jpg"
+                src="@/assets/images/ronald2.jpg"
                 alt="Custom Software Development"
                 class="card-img-top"
               />
@@ -64,7 +64,7 @@ const { teamMembers } = useMembers();
           <div class="col-md-4 col-sm-6 col-12 mb-1">
             <div class="card service-card">
               <img
-                src="@/assets/images/Directors/abuga.jpg"
+                src="@/assets/images/abuga.jpg"
                 alt="Custom Software Development"
                 class="card-img-top"
               />
@@ -80,7 +80,7 @@ const { teamMembers } = useMembers();
           <div class="col-md-4 col-sm-6 col-12 mb-1">
             <div class="card service-card">
               <img
-                src="@/assets/images/Directors/Chelal.jpg"
+                src="@/assets/images/Chelal.jpg"
                 alt="Custom Software Development"
                 class="card-img-top"
               />
@@ -96,7 +96,7 @@ const { teamMembers } = useMembers();
           <div class="col-md-4 col-sm-6 col-12 mb-1">
             <div class="card service-card">
               <img
-                src="@/assets/images/Directors/Elphas.jpg"
+                src="@/assets/images/Elphas.jpg"
                 alt="Custom Software Development"
                 class="card-img-top"
               />
@@ -112,7 +112,7 @@ const { teamMembers } = useMembers();
           <div class="col-md-4 col-sm-6 col-12 mb-1">
             <div class="card service-card">
               <img
-                src="@/assets/images/Directors/Lenah.jpg"
+                src="@/assets/images/Lenah.jpg"
                 alt="Custom Software Development"
                 class="card-img-top"
               />
@@ -128,7 +128,7 @@ const { teamMembers } = useMembers();
           <div class="col-md-4 col-sm-6 col-12 mb-1">
             <div class="card service-card">
               <img
-                src="@/assets/images/Directors/Levy.jpg"
+                src="@/assets/images/Levy.jpg"
                 alt="Custom Software Development"
                 class="card-img-top"
               />
@@ -144,7 +144,7 @@ const { teamMembers } = useMembers();
           <div class="col-md-4 col-sm-6 col-12 mb-1">
             <div class="card service-card">
               <img
-                src="@/assets/images/Directors/Linet.jpg"
+                src="@/assets/images/Linet.jpg"
                 alt="Custom Software Development"
                 class="card-img-top"
               />
@@ -160,7 +160,7 @@ const { teamMembers } = useMembers();
           <div class="col-md-4 col-sm-6 col-12 mb-1">
             <div class="card service-card">
               <img
-                src="@/assets/images/Directors/Thairu.jpg"
+                src="@/assets/images/Thairu.jpg"
                 alt="Custom Software Development"
                 class="card-img-top"
               />
