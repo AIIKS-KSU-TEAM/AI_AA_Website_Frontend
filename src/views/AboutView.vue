@@ -38,36 +38,173 @@ const { teamMembers } = useMembers();
       </div>
     </section>
 
-    <!-- Our Team Section -->
-    <section class="our-team py-5">
-  <div class="container">
-    <h2 class="text-center mb-4">Our Team</h2>
-    <hr class="bg-warning mx-auto" style="width: 10%" />
-    <div class="row">
-      <div
-        v-for="member in teamMembers"
-        :key="member.name"
-        class="col-md-6 col-lg-6 col-sm-12 mb-5"
-      >
-        <div class="card team-card shadow-lg">
-          <div class="team-img-container">
-            <img
-              :src="member.image"
-              alt="Team Member Image"
-              class="team-img img-fluid"
-            />
+    <!-- Directors Section -->
+    <section class="services py-5">
+      <div class="container">
+        <h2 class="text-center mb-2 ">Directors</h2>
+        <hr class="bg-warning w-25 mb-4 mx-auto" />
+        <div class="row">
+          <!-- Service 1 -->
+          <div class="col-md-4 col-sm-6 col-12 mb-1">
+            <div class="card service-card">
+              <img
+                src="@/assets/images/Directors/ronald2.jpg"
+                alt="Custom Software Development"
+                class="card-img-top"
+              />
+              <div class="card-body">
+                <h5 class="card-title fw-bold">Dr.Ronald Tombe</h5>
+                <p class="card-text">
+                  Co-Founder and team lead, Provide leadership and ensure organizational goals are effectively achieved.
+                </p>
+              </div>
+            </div>
           </div>
-          <div class="card-body text-center">
-            <h5 class="card-title fw-bold">{{ member.name }}</h5>
-            <p class="card-text lead">{{ member.title }}</p>
-            <p class="card-text">{{ member.about }}</p>
+
+          <div class="col-md-4 col-sm-6 col-12 mb-1">
+            <div class="card service-card">
+              <img
+                src="@/assets/images/Directors/abuga.jpg"
+                alt="Custom Software Development"
+                class="card-img-top"
+              />
+              <div class="card-body">
+                <h5 class="card-title fw-bold">Jonathan Abuga</h5>
+                <p class="card-text">
+                  Provide leadership, strategic vision, and ensure organizational goals are effectively achieved.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-6 col-12 mb-1">
+            <div class="card service-card">
+              <img
+                src="@/assets/images/Directors/Chelal.jpg"
+                alt="Custom Software Development"
+                class="card-img-top"
+              />
+              <div class="card-body">
+                <h5 class="card-title fw-bold">Evans Kipkemboi</h5>
+                <p class="card-text">
+                  Provide leadership, strategic vision, and ensure organizational goals are effectively achieved.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-6 col-12 mb-1">
+            <div class="card service-card">
+              <img
+                src="@/assets/images/Directors/Elphas.jpg"
+                alt="Custom Software Development"
+                class="card-img-top"
+              />
+              <div class="card-body">
+                <h5 class="card-title fw-bold">Elphas Luchemo</h5>
+                <p class="card-text">
+                  Provide leadership, strategic vision, and ensure organizational goals are effectively achieved.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-6 col-12 mb-1">
+            <div class="card service-card">
+              <img
+                src="@/assets/images/Directors/Lenah.jpg"
+                alt="Custom Software Development"
+                class="card-img-top"
+              />
+              <div class="card-body">
+                <h5 class="card-title fw-bold">Lenah Nyamete</h5>
+                <p class="card-text">
+                  Provide leadership, strategic vision, and ensure organizational goals are effectively achieved.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-6 col-12 mb-1">
+            <div class="card service-card">
+              <img
+                src="@/assets/images/Directors/Levy.jpg"
+                alt="Custom Software Development"
+                class="card-img-top"
+              />
+              <div class="card-body">
+                <h5 class="card-title fw-bold">Levy Otwoma</h5>
+                <p class="card-text">
+                  Provide leadership, strategic vision, and ensure organizational goals are effectively achieved.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-6 col-12 mb-1">
+            <div class="card service-card">
+              <img
+                src="@/assets/images/Directors/Linet.jpg"
+                alt="Custom Software Development"
+                class="card-img-top"
+              />
+              <div class="card-body">
+                <h5 class="card-title fw-bold">Linet Bosibori</h5>
+                <p class="card-text">
+                  Provide leadership, strategic vision, and ensure organizational goals are effectively achieved.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-6 col-12 mb-1">
+            <div class="card service-card">
+              <img
+                src="@/assets/images/Directors/Thairu.jpg"
+                alt="Custom Software Development"
+                class="card-img-top"
+              />
+              <div class="card-body">
+                <h5 class="card-title fw-bold">Paul Thairu</h5>
+                <p class="card-text">
+                  Provide leadership, strategic vision, and ensure organizational goals are effectively achieved.
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </div>
-</section>
+    </section>
 
+    <!-- Our Team Section -->
+    <section class="our-team py-5">
+      <div class="container">
+        <h2 class="text-center mb-4">Secretariat</h2>
+        <hr class="bg-warning mx-auto" style="width: 10%" />
+        <div class="row">
+          <div
+            v-for="member in teamMembers"
+            :key="member.name"
+            class="col-md-4 col-sm-6 col-12 mb-4"
+          >
+            <div class="card team-card shadow-lg">
+              <div class="team-img-container">
+                <img
+                  :src="member.image"
+                  alt="Team Member Image"
+                  class="team-img img-fluid"
+                />
+              </div>
+              <div class="card-body text-center">
+                <h5 class="card-title fw-bold">{{ member.name }}</h5>
+                <p class="card-text lead">{{ member.title }}</p>
+                <p class="card-text">{{ member.about }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <!-- Services Section -->
     <section class="services py-5">
@@ -153,6 +290,7 @@ const { teamMembers } = useMembers();
   height: auto;
   max-height: 400px;
   border-radius: 8px;
+  object-fit: cover;
 }
 
 .our-team {
@@ -215,7 +353,7 @@ const { teamMembers } = useMembers();
 }
 
 .services .card-img-top {
-  height: 200px;
+  height: 350px;
   object-fit: cover;
 }
 
@@ -242,24 +380,8 @@ const { teamMembers } = useMembers();
   .our-team .row {
     display: flex;
     flex-direction: column;
-  }
-
-  .team-img-container {
-    left: 50%;
-  }
-
-  .team-card {
-    margin-top: 120px;
-  }
-}
-
-@media (max-width: 576px) {
-  .team-card {
-    margin-top: 140px;
-  }
-
-  .card-body {
-    padding-top: 100px;
+    align-items: center;
   }
 }
 </style>
+
