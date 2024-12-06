@@ -59,7 +59,7 @@
           <hr class="bg-warning w-25" />
           <ul class="list-unstyled">
             <li>
-              <i class="bi bi-geo-alt me-2"></i>P.O.Box 12345-00100, Nairobi,
+              <i class="bi bi-geo-alt me-2"></i>P.O.Box 3183-40200, Kisii,
               Kenya
             </li>
             <li><i class="bi bi-telephone me-2"></i>+254-114-290-760</li>
