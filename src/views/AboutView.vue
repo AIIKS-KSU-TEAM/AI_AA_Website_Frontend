@@ -59,7 +59,63 @@ const { teamMembers } = useMembers();
                 <p class="card-text font-semibold">
                   Founder and Chairperson
                 </p>
-                <p>Dr. Tombe, Founder and Chairperson of AIAA-Kenya, leads strategic AI initiatives and ensures compliance.</p>
+                <p>Dr. Tombe provides visionary leadership as the Founder and Chairperson of the AIAA-Kenya NGO. He leads the Board in overseeing organizational and financial compliance, ensuring alignment with legal frameworks. Dr. Tombe also spearheads the strategic direction of AI-focused projects and is actively involved in designing, developing, and deploying innovative AI solutions that address critical societal challenges.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-12 mb-4">
+            <div class="card service-card">
+              <div class="card-img-container position-relative">
+                <img
+                  src="@/assets/images/Levy1.jpg"
+                  alt="Dr. Levy Otwoma"
+                  class="card-img-top "
+                />
+              </div>
+              <div class="card-body">
+                <h5 class="card-title fw-bold">Dr. Levy Otwoma</h5>
+                <p class="card-text font-semibold">
+                  Director, Blue Economy and Sustainable Fish Farming
+                </p>
+                <p>An esteemed Blue Economy expert, Dr Otwoma provides strategic leadership at the intersection of AI and digital innovations in sustainable fish farming. He leverages his expertise to guide the development and implementation of transformative solutions that enhance aquaculture efficiency and environmental conservation.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-12 mb-4">
+            <div class="card service-card">
+              <div class="card-img-container position-relative">
+                <img
+                  src="@/assets/images/Thairu.jpg"
+                  alt="Mr. Paul Thairu"
+                  class="card-img-top  "
+                />
+              </div>
+              <div class="card-body">
+                <h5 class="card-title fw-bold">Mr. Paul Thairu</h5>
+                <p class="card-text font-semibold">
+                  Director, Education and Governance
+                </p>
+                <p>
+                  An accomplished authority in education and governance, Mr Thairu spearheads initiatives integrating AI into educational platforms for inclusive and accessible learning. He oversees implementing innovative educational projects across TVET institutions, secondary schools, and primary schools to empower learners through technology-driven solutions.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-12 mb-4">
+            <div class="card service-card">
+              <div class="card-img-container position-relative">
+                <img
+                  src="@/assets/images/Linet1.jpg"
+                  alt="Mrs. Linet Bosibori"
+                  class="card-img-top "
+                />
+              </div>
+              <div class="card-body">
+                <h5 class="card-title fw-bold">Mrs. Linet Bosibori</h5>
+                <p class="card-text font-semibold">
+                  Director, Finance and Accounting
+                </p>
+                <p>
+                  A seasoned professional in finance and accounting, Ms. Bosibori provides critical leadership in financial management. She ensures that the NGO's financial operations, including budgetary planning, reporting, and compliance, are executed transparently and efficiently.</p>
               </div>
             </div>
           </div>
@@ -79,7 +135,7 @@ const { teamMembers } = useMembers();
                 <p class="card-text font-semibold">
                   Director, Epidemiology and Biostatistics
                 </p>
-                <p>Dr. Abuga, an expert in epidemiology and biostatistics, leads health projects using AI and data mining techniques.</p>
+                <p>A distinguished expert in epidemiology and biostatistics, Dr. Abuga offers strategic leadership in health projects. He specializes in utilizing AI and data mining techniques to address public health challenges and develop data-driven solutions for promoting healthier populations.</p>
               </div>
             </div>
           </div>
@@ -99,7 +155,7 @@ const { teamMembers } = useMembers();
                 <p class="card-text font-semibold">
                   Director, Audit, Finance, and Human Resource Management
                 </p>
-                <p>Mr. Chelal, a skilled accountant, leads NGO auditing, financial oversight, and human resource management for optimal resource utilization.</p>
+                <p>As a proficient accountant, Mr. Chelal develops strategic roadmaps for NGO auditing and financial oversight. He also leads human resource management initiatives, ensuring optimal resource utilization to support the NGO's mission and objectives</p>
               </div>
             </div>
           </div>
@@ -115,73 +171,17 @@ const { teamMembers } = useMembers();
                 />
               </div>
               <div class="card-body">
-                <h5 class="card-title fw-bold">Mrs. Lenah Nyamete</h5>
+                <h5 class="card-title fw-bold">Mrs. Lenah Barongo</h5>
                 <p class="card-text font-semibold">
                   Director, ICT and AI Implementation
                 </p>
-                <p>Ms. Barongo, an ICT professional, leads AI-based NGO projects, driving implementation and strategic planning for impactful technological outcomes.</p>
-              </div>
-            </div>
-          </div>
+                <p>An ICT professional focusing on AI, Ms. Barongo drives AI-based NGO projects' implementation and strategic planning. Her expertise ensures the effective integration of cutting-edge technologies to achieve impactful outcomes across diverse initiatives.
 
-          <div class="col-md-4 col-sm-6 col-12 mb-4">
-            <div class="card service-card">
-              <div class="card-img-container position-relative">
-                <img
-                  src="@/assets/images/Levy1.jpg"
-                  alt="Dr. Levy Otwoma"
-                  class="card-img-top "
-                />
-              </div>
-              <div class="card-body">
-                <h5 class="card-title fw-bold">Dr. Levy Otwoma</h5>
-                <p class="card-text font-semibold">
-                  Director, Blue Economy and Sustainable Fish Farming
-                </p>
-                <p>Dr. Otwoma, a Blue Economy expert, leads AI-driven sustainable fish farming solutions, enhancing efficiency and conservation.</p>
+</p>
               </div>
             </div>
           </div>
-
-          <div class="col-md-4 col-sm-6 col-12 mb-4">
-            <div class="card service-card">
-              <div class="card-img-container position-relative">
-                <img
-                  src="@/assets/images/Linet1.jpg"
-                  alt="Mrs. Linet Bosibori"
-                  class="card-img-top "
-                />
-              </div>
-              <div class="card-body">
-                <h5 class="card-title fw-bold">Mrs. Linet Bosibori</h5>
-                <p class="card-text font-semibold">
-                  Director, Finance and Accounting
-                </p>
-                <p>
-                  Ms. Bosibori, a finance expert, leads transparent financial management, overseeing budgeting, reporting, and compliance for the NGO.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-4 col-sm-6 col-12 mb-4">
-            <div class="card service-card">
-              <div class="card-img-container position-relative">
-                <img
-                  src="@/assets/images/Thairu.jpg"
-                  alt="Mr. Paul Thairu"
-                  class="card-img-top  "
-                />
-              </div>
-              <div class="card-body">
-                <h5 class="card-title fw-bold">Mr. Paul Thairu</h5>
-                <p class="card-text font-semibold">
-                  Director, Education and Governance
-                </p>
-                <p>
-                  Mr. Thairu leads AI integration in education, driving inclusive learning and innovative projects across schools and TVET institutions.</p>
-              </div>
-            </div>
-          </div>
+          
         </div>
       </div>
     </section>
