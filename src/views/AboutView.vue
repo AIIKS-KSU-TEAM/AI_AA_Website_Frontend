@@ -49,7 +49,7 @@ const { teamMembers } = useMembers();
             <div class="card service-card">
               <div class="card-img-container position-relative">
                 <img
-                  src="@/assets/images/Directors/ronald2.jpg"
+                  src="@/assets/images/ronald2.jpg"
                   alt="Dr. Ronald Tombe"
                   class="card-img-top "
                 />
@@ -69,7 +69,7 @@ const { teamMembers } = useMembers();
             <div class="card service-card">
               <div class="card-img-container position-relative">
                 <img
-                  src="@/assets/images/Directors/abuga.jpg"
+                  src="@/assets/images/abuga.jpg"
                   alt="Dr. Jonathan Abuga"
                   class="card-img-top "
                 />
@@ -89,7 +89,7 @@ const { teamMembers } = useMembers();
             <div class="card service-card">
               <div class="card-img-container position-relative">
                 <img
-                  src="@/assets/images/Directors/Chelal.jpg"
+                  src="@/assets/images/Chelal.jpg"
                   alt="Mrs. Evans Kipkemboi"
                   class="card-img-top "
                 />
@@ -109,7 +109,7 @@ const { teamMembers } = useMembers();
             <div class="card service-card">
               <div class="card-img-container position-relative">
                 <img
-                  src="@/assets/images/Directors/Lenah1.jpg"
+                  src="@/assets/images/Lenah1.jpg"
                   alt="Mrs. Lenah Nyamete"
                   class="card-img-top "
                 />
@@ -128,7 +128,7 @@ const { teamMembers } = useMembers();
             <div class="card service-card">
               <div class="card-img-container position-relative">
                 <img
-                  src="@/assets/images/Directors/Levy1.jpg"
+                  src="@/assets/images/Levy1.jpg"
                   alt="Dr. Levy Otwoma"
                   class="card-img-top "
                 />
@@ -147,7 +147,7 @@ const { teamMembers } = useMembers();
             <div class="card service-card">
               <div class="card-img-container position-relative">
                 <img
-                  src="@/assets/images/Directors/Linet1.jpg"
+                  src="@/assets/images/Linet1.jpg"
                   alt="Mrs. Linet Bosibori"
                   class="card-img-top "
                 />
@@ -167,7 +167,7 @@ const { teamMembers } = useMembers();
             <div class="card service-card">
               <div class="card-img-container position-relative">
                 <img
-                  src="@/assets/images/Directors/Thairu.jpg"
+                  src="@/assets/images/Thairu.jpg"
                   alt="Mr. Paul Thairu"
                   class="card-img-top  "
                 />
