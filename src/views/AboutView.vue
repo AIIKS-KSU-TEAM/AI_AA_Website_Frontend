@@ -38,136 +38,147 @@ const { teamMembers } = useMembers();
       </div>
     </section>
 
-    <!-- Directors Section -->
-    <section class="services py-5">
+   <!-- Directors Section -->
+   <section class="services py-5">
       <div class="container">
-        <h2 class="text-center mb-2 ">Directors</h2>
+        <h2 class="text-center mb-2">Directors</h2>
         <hr class="bg-warning w-25 mb-4 mx-auto" />
         <div class="row">
-          <!-- Service 1 -->
-          <div class="col-md-4 col-sm-6 col-12 mb-1">
+          <!-- Card 1 -->
+          <div class="col-md-4 col-sm-6 col-12 mb-4">
             <div class="card service-card">
-              <img
-                src="@/assets/images/ronald2.jpg"
-                alt="Custom Software Development"
-                class="card-img-top"
-              />
+              <div class="card-img-container position-relative">
+                <img
+                  src="@/assets/images/Directors/ronald2.jpg"
+                  alt="Dr. Ronald Tombe"
+                  class="card-img-top "
+                />
+              </div>
               <div class="card-body">
-                <h5 class="card-title fw-bold">Dr.Ronald Tombe</h5>
-                <p class="card-text">
-                  Co-Founder and team lead, Provide leadership and ensure organizational goals are effectively achieved.
+                <h5 class="card-title fw-bold">Dr. Ronald Tombe</h5>
+                <p class="card-text font-semibold">
+                  Founder and Chairperson
                 </p>
+                <p>Dr. Tombe, Founder and Chairperson of AIAA-Kenya, leads strategic AI initiatives and ensures compliance.</p>
               </div>
             </div>
           </div>
 
-          <div class="col-md-4 col-sm-6 col-12 mb-1">
+          <!-- Card 2 -->
+          <div class="col-md-4 col-sm-6 col-12 mb-4">
             <div class="card service-card">
-              <img
-                src="@/assets/images/abuga.jpg"
-                alt="Custom Software Development"
-                class="card-img-top"
-              />
-              <div class="card-body">
-                <h5 class="card-title fw-bold">Jonathan Abuga</h5>
-                <p class="card-text">
-                  Provide leadership, strategic vision, and ensure organizational goals are effectively achieved.
-                </p>
+              <div class="card-img-container position-relative">
+                <img
+                  src="@/assets/images/Directors/abuga.jpg"
+                  alt="Dr. Jonathan Abuga"
+                  class="card-img-top "
+                />
               </div>
-            </div>
-          </div>
-            <div class="col-md-4 col-sm-6 col-12 mb-1">
-            <div class="card service-card">
-              <img
-                src="@/assets/images/Thairu.jpg"
-                alt="Custom Software Development"
-                class="card-img-top"
-              />
               <div class="card-body">
-                <h5 class="card-title fw-bold">Paul Thairu</h5>
-                <p class="card-text">
-                  Provide leadership, strategic vision, and ensure organizational goals are effectively achieved.
+                <h5 class="card-title fw-bold">Dr. Jonathan Abuga</h5>
+                <p class="card-text font-semibold">
+                  Director, Epidemiology and Biostatistics
                 </p>
+                <p>Dr. Abuga, an expert in epidemiology and biostatistics, leads health projects using AI and data mining techniques.</p>
               </div>
             </div>
           </div>
 
-          <div class="col-md-4 col-sm-6 col-12 mb-1">
+          <!-- Card 3 -->
+          <div class="col-md-4 col-sm-6 col-12 mb-4">
             <div class="card service-card">
-              <img
-                src="@/assets/images/Chelal.jpg"
-                alt="Custom Software Development"
-                class="card-img-top"
-              />
+              <div class="card-img-container position-relative">
+                <img
+                  src="@/assets/images/Directors/Chelal.jpg"
+                  alt="Mrs. Evans Kipkemboi"
+                  class="card-img-top "
+                />
+              </div>
               <div class="card-body">
-                <h5 class="card-title fw-bold">Evans Kipkemboi</h5>
-                <p class="card-text">
-                  Provide leadership, strategic vision, and ensure organizational goals are effectively achieved.
+                <h5 class="card-title fw-bold">Mrs. Evans Kipkemboi</h5>
+                <p class="card-text font-semibold">
+                  Director, Audit, Finance, and Human Resource Management
                 </p>
+                <p>Mr. Chelal, a skilled accountant, leads NGO auditing, financial oversight, and human resource management for optimal resource utilization.</p>
               </div>
             </div>
           </div>
 
-          <div class="col-md-4 col-sm-6 col-12 mb-1">
+          <!-- Additional cards follow the same pattern -->
+          <div class="col-md-4 col-sm-6 col-12 mb-4">
             <div class="card service-card">
-              <img
-                src="@/assets/images/Elphas1.jpg"
-                alt="Custom Software Development"
-                class="card-img-top"
-              />
+              <div class="card-img-container position-relative">
+                <img
+                  src="@/assets/images/Directors/Lenah1.jpg"
+                  alt="Mrs. Lenah Nyamete"
+                  class="card-img-top "
+                />
+              </div>
               <div class="card-body">
-                <h5 class="card-title fw-bold">Elphas Luchemo</h5>
-                <p class="card-text">
-                  Provide leadership, strategic vision, and ensure organizational goals are effectively achieved.
+                <h5 class="card-title fw-bold">Mrs. Lenah Nyamete</h5>
+                <p class="card-text font-semibold">
+                  Director, ICT and AI Implementation
                 </p>
+                <p>Ms. Barongo, an ICT professional, leads AI-based NGO projects, driving implementation and strategic planning for impactful technological outcomes.</p>
               </div>
             </div>
           </div>
 
-          <div class="col-md-4 col-sm-6 col-12 mb-1">
+          <div class="col-md-4 col-sm-6 col-12 mb-4">
             <div class="card service-card">
-              <img
-                src="@/assets/images/Lenah1.jpg"
-                alt="Custom Software Development"
-                class="card-img-top"
-              />
+              <div class="card-img-container position-relative">
+                <img
+                  src="@/assets/images/Directors/Levy1.jpg"
+                  alt="Dr. Levy Otwoma"
+                  class="card-img-top "
+                />
+              </div>
               <div class="card-body">
-                <h5 class="card-title fw-bold">Lenah Nyamete</h5>
-                <p class="card-text">
-                  Provide leadership, strategic vision, and ensure organizational goals are effectively achieved.
+                <h5 class="card-title fw-bold">Dr. Levy Otwoma</h5>
+                <p class="card-text font-semibold">
+                  Director, Blue Economy and Sustainable Fish Farming
                 </p>
+                <p>Dr. Otwoma, a Blue Economy expert, leads AI-driven sustainable fish farming solutions, enhancing efficiency and conservation.</p>
               </div>
             </div>
           </div>
 
-          <div class="col-md-4 col-sm-6 col-12 mb-1">
+          <div class="col-md-4 col-sm-6 col-12 mb-4">
             <div class="card service-card">
-              <img
-                src="@/assets/images/Levy1.jpg"
-                alt="Custom Software Development"
-                class="card-img-top"
-              />
+              <div class="card-img-container position-relative">
+                <img
+                  src="@/assets/images/Directors/Linet1.jpg"
+                  alt="Mrs. Linet Bosibori"
+                  class="card-img-top "
+                />
+              </div>
               <div class="card-body">
-                <h5 class="card-title fw-bold">Levy Otwoma</h5>
-                <p class="card-text">
-                  Provide leadership, strategic vision, and ensure organizational goals are effectively achieved.
+                <h5 class="card-title fw-bold">Mrs. Linet Bosibori</h5>
+                <p class="card-text font-semibold">
+                  Director, Finance and Accounting
                 </p>
+                <p>
+                  Ms. Bosibori, a finance expert, leads transparent financial management, overseeing budgeting, reporting, and compliance for the NGO.</p>
               </div>
             </div>
           </div>
 
-          <div class="col-md-4 col-sm-6 col-12 mb-1">
+          <div class="col-md-4 col-sm-6 col-12 mb-4">
             <div class="card service-card">
-              <img
-                src="@/assets/images/Linet1.jpg"
-                alt="Custom Software Development"
-                class="card-img-top"
-              />
+              <div class="card-img-container position-relative">
+                <img
+                  src="@/assets/images/Directors/Thairu.jpg"
+                  alt="Mr. Paul Thairu"
+                  class="card-img-top  "
+                />
+              </div>
               <div class="card-body">
-                <h5 class="card-title fw-bold">Linet Bosibori</h5>
-                <p class="card-text">
-                  Provide leadership, strategic vision, and ensure organizational goals are effectively achieved.
+                <h5 class="card-title fw-bold">Mr. Paul Thairu</h5>
+                <p class="card-text font-semibold">
+                  Director, Education and Governance
                 </p>
+                <p>
+                  Mr. Thairu leads AI integration in education, driving inclusive learning and innovative projects across schools and TVET institutions.</p>
               </div>
             </div>
           </div>
