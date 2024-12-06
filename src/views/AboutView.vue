@@ -91,7 +91,7 @@ const { teamMembers } = useMembers();
                 />
               </div>
               <div class="card-body">
-                <h5 class="card-title fw-bold">Mr. Paul Thairu</h5>
+                <h5 class="card-title fw-bold">Hon. Paul Thairu, HSC,Mst.J</h5>
                 <p class="card-text font-semibold">
                   Director, Education and Governance
                 </p>
@@ -151,7 +151,7 @@ const { teamMembers } = useMembers();
                 />
               </div>
               <div class="card-body">
-                <h5 class="card-title fw-bold">Mrs. Evans Kipkemboi</h5>
+                <h5 class="card-title fw-bold">Mr. Evans Kipkemboi</h5>
                 <p class="card-text font-semibold">
                   Director, Audit, Finance, and Human Resource Management
                 </p>
