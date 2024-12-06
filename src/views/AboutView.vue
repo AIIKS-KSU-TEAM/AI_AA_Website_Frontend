@@ -340,7 +340,7 @@ const { teamMembers } = useMembers();
 }
 
 .card-body {
-  padding-top: 10px;
+  padding-top: 45px;
 }
 
 .card-title {
