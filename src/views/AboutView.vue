@@ -76,6 +76,21 @@ const { teamMembers } = useMembers();
               </div>
             </div>
           </div>
+            <div class="col-md-4 col-sm-6 col-12 mb-1">
+            <div class="card service-card">
+              <img
+                src="@/assets/images/Thairu.jpg"
+                alt="Custom Software Development"
+                class="card-img-top"
+              />
+              <div class="card-body">
+                <h5 class="card-title fw-bold">Paul Thairu</h5>
+                <p class="card-text">
+                  Provide leadership, strategic vision, and ensure organizational goals are effectively achieved.
+                </p>
+              </div>
+            </div>
+          </div>
 
           <div class="col-md-4 col-sm-6 col-12 mb-1">
             <div class="card service-card">
@@ -96,7 +111,7 @@ const { teamMembers } = useMembers();
           <div class="col-md-4 col-sm-6 col-12 mb-1">
             <div class="card service-card">
               <img
-                src="@/assets/images/Elphas.jpg"
+                src="@/assets/images/Elphas1.jpg"
                 alt="Custom Software Development"
                 class="card-img-top"
               />
@@ -112,7 +127,7 @@ const { teamMembers } = useMembers();
           <div class="col-md-4 col-sm-6 col-12 mb-1">
             <div class="card service-card">
               <img
-                src="@/assets/images/Lenah.jpg"
+                src="@/assets/images/Lenah1.jpg"
                 alt="Custom Software Development"
                 class="card-img-top"
               />
@@ -128,7 +143,7 @@ const { teamMembers } = useMembers();
           <div class="col-md-4 col-sm-6 col-12 mb-1">
             <div class="card service-card">
               <img
-                src="@/assets/images/Levy.jpg"
+                src="@/assets/images/Levy1.jpg"
                 alt="Custom Software Development"
                 class="card-img-top"
               />
@@ -144,28 +159,12 @@ const { teamMembers } = useMembers();
           <div class="col-md-4 col-sm-6 col-12 mb-1">
             <div class="card service-card">
               <img
-                src="@/assets/images/Linet.jpg"
+                src="@/assets/images/Linet1.jpg"
                 alt="Custom Software Development"
                 class="card-img-top"
               />
               <div class="card-body">
                 <h5 class="card-title fw-bold">Linet Bosibori</h5>
-                <p class="card-text">
-                  Provide leadership, strategic vision, and ensure organizational goals are effectively achieved.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-4 col-sm-6 col-12 mb-1">
-            <div class="card service-card">
-              <img
-                src="@/assets/images/Thairu.jpg"
-                alt="Custom Software Development"
-                class="card-img-top"
-              />
-              <div class="card-body">
-                <h5 class="card-title fw-bold">Paul Thairu</h5>
                 <p class="card-text">
                   Provide leadership, strategic vision, and ensure organizational goals are effectively achieved.
                 </p>
@@ -290,6 +289,10 @@ const { teamMembers } = useMembers();
   height: auto;
   max-height: 400px;
   border-radius: 8px;
+  object-fit: cover;
+}
+.services .service-card .card-img-top {
+  height: 240px; 
   object-fit: cover;
 }
 
