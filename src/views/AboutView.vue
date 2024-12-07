@@ -49,7 +49,7 @@ const { teamMembers } = useMembers();
             <div class="card service-card">
               <div class="card-img-container position-relative">
                 <img
-                  src="@/assets/images/ronald2.jpg"
+                  src="@/assets/images/ron1.jpg"
                   alt="Dr. Ronald Tombe"
                   class="card-img-top "
                 />
