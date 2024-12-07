@@ -15,7 +15,7 @@ const { teamMembers } = useMembers();
         <div class="row align-items-center">
           <div class="col-md-6">
             <img
-              src="@/assets/images/collaborations.jpg"
+              src="@/assets/images/ronald.jpeg"
               alt="About Us Image"
               class="img-fluid about-img"
             />
